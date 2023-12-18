@@ -10,7 +10,7 @@ I'm particularly proud of the diagrams I created for this project. They struck a
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I'm continually working on finding the right balance between conciseness and clarity in my documentation. In retrospect, some of my previous pieces could have benefited from maybe adding a symbol key and short descriptions to each diagram.
+I'm continually working on finding the right balance between conciseness and clarity in my documentation. In retrospect, some of my previous pieces could have benefited from maybe adding a symbol key chart and short descriptions to each diagram.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
